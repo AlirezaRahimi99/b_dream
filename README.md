@@ -1,7 +1,7 @@
 [
   {
-    "لینک عکس": "https://s8.uupload.ir/files/picsart_24-11-06_17-56-58-649_7g5x.jpg",
-    "لینک سایت": "https://rubika.ir/Dream_KitApp",
+    "لینک عکس": "https://s6.uupload.ir/files/picsart_25-02-04_15-12-42-689_1wk5.jpg",
+    "لینک سایت": "https://myket.ir/app/com.DreamKit.Telina",
     "عملکرد": "باز کردن لینک"
   }
 ]
